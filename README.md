@@ -35,10 +35,6 @@
   <img src="https://leetcard.jacoblin.cool/Abhay_Sawarkar?ext=contest" />
 </p>
 
-<p align="center">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=Abhay_Sawarkar&theme=dark" />
-</p>
-
 
 ---
 
