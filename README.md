@@ -17,10 +17,10 @@
 <h2 align="center">🏆 LeetCode Info 🏆</h2>
 
 <p align="center">
- <a href="[https://leetcode.com/abhay1520/](https://leetcode.com/u/Abhay_Sawarkar/)" target="_blank">
+ <a href="https://leetcode.com/u/Abhay_Sawarkar/" target="_blank">
    <img align="center" src="https://assets.leetcode.com/users/images/20b0a625-ea31-4a3e-b561-7000deae15cc_1708636184.9909492.gif" height="200" width="200" />
  </a>
- <a href="https://leetcode.com/abhay1520/" target="_blank">
+ <a href="https://leetcode.com/u/Abhay_Sawarkar/" target="_blank">
    <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" height="200" width="200" />
  </a>
 </p>
