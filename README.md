@@ -31,10 +31,6 @@
   <img src="https://leetcard.jacoblin.cool/Abhay_Sawarkar?theme=dark&font=PT%20Sans&ext=heatmap" />
 </p>
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Abhay_Sawarkar?ext=contest" />
-</p>
-
 
 ---
 
