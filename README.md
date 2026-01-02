@@ -14,26 +14,6 @@
 
 ---
 
-<h2 align="center">🏆 LeetCode Info 🏆</h2>
-
-<p align="center">
- <a href="https://leetcode.com/u/Abhay_Sawarkar/" target="_blank">
-   <img align="center" src="https://assets.leetcode.com/users/images/20b0a625-ea31-4a3e-b561-7000deae15cc_1708636184.9909492.gif" height="200" width="200" />
- </a>
- <a href="https://leetcode.com/u/Abhay_Sawarkar/" target="_blank">
-   <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" height="200" width="200" />
- </a>
-</p>
-
-<p align="center"><strong>LeetCode Status</strong></p>
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Abhay_Sawarkar?theme=dark&font=PT%20Sans&ext=heatmap" />
-</p>
-
-
----
-
 <h2 align="center">⚡ Current GitHub Stats ⚡</h2>
 <br>
 
